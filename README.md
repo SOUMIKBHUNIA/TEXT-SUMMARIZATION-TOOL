@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTOH
 
-* CODE DESCRIPTION*
+*CODE DESCRIPTION*
 
 This Python script performs extractive text summarization using natural language processing (NLP) techniques, primarily leveraging cosine similarity and the PageRank algorithm. The script reads a text file, processes it to extract meaningful sentences, computes similarity between sentences, and ranks them to generate a concise summary.
 
